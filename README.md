@@ -1,8 +1,8 @@
 # Overview
 
-As a software engineer seeking to enhance my skills and broaden my knowledge, I developed a map software application that leverages the ArcGIS JavaScript API. This project aims to demonstrate my proficiency in creating interactive and visually appealing mapping applications while incorporating real-world data to enhance the user experience.
+This project aims to demonstrate my proficiency in creating interactive and visually appealing mapping applications while incorporating real-world data to enhance the user experience.
 
-The map software allows users to explore and visualize various landmarks in a specified area. Users can click on individual landmarks to view detailed information, including the address and category of each point of interest. The map is rendered with custom symbols based on different categories, such as schools, churches, and parks, making it easy to distinguish between various types of landmarks.
+The map software allows users to explore and visualize various landmarks in a specified area (Miami, FL). Users can click on individual landmarks to view detailed information, including the address and category of each point of interest. The map is rendered with custom symbols based on different categories, such as schools, churches, and parks, making it easy to distinguish between various types of landmarks.
 
 The data used in this project is sourced from an ArcGIS Feature Layer hosted on [ArcGIS Hub](https://hub.arcgis.com/). The Feature Layer contains information about different landmarks, including their names, addresses, and categories. This data enriches the map and provides users with valuable insights into the diverse points of interest in the specified location.
 
