@@ -8,8 +8,8 @@ The data used in this project is sourced from an ArcGIS Feature Layer hosted on 
 
 The primary purpose of developing this software is to showcase my ability to integrate geospatial data into a web-based application using the ArcGIS JavaScript API. By creating a user-friendly interface and incorporating interactive features, I aim to demonstrate the practical application of mapping technologies in providing valuable information to end-users.
 
-For a comprehensive demonstration of the map software, please refer to the following YouTube video:
-[Software Demo Video](http://youtube.link.goes.here)
+For a comprehensive demonstration of the map software, please refer to the following video:
+[Software Demo Video](https://www.loom.com/share/5c81acfbc5e54003aa206216b6bc5e9f?sid=60b03145-d0be-4368-ac47-daaedb1cc9a9)
 
 # Development Environment
 
